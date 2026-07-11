@@ -417,7 +417,7 @@ yesBtn.addEventListener("click",()=>{
 
     setTimeout(()=>{
 
-        alert("❤️ Thank You My Beautiful Queen Nimra ❤️\n\nI Love You Forever 🥹💖");
+        alert("❤️ Thank You My Beautiful Queen Mehak ❤️\n\nI Love You Forever 🥹💖");
 
     },1000);
 
@@ -592,7 +592,9 @@ const words=[
 
 "Forever Together 💖",
 
-"Nimra ❤️",
+"Mehak ❤️",
+
+"Mahi 💋",   
 
 "Ali ❤️"
 
@@ -677,7 +679,7 @@ gift.onclick=()=>{
 
 alert(`💝 Surprise 💝
 
-Meri Jaan Nimra ❤️
+Meri Jaan Mehak ❤️
 
 I Love You So Much.
 
