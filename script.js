@@ -249,7 +249,7 @@ setTimeout(typeWriter,2500);
 
 // ⚠️ Yahan apni relationship date likho
 
-const loveDate = new Date("2025-01-01 00:00:00");
+const loveDate = new Date("2026-06-09 00:00:00");
 
 const timer = document.getElementById("loveTimer");
 
